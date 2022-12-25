@@ -9,18 +9,6 @@ import java.util.Date;
 import java.util.Scanner;
 import java.util.UUID;
 
-/*
-Implement an in-memory Twitter (micro-blogging site) with the following assumptions:
-The total number of users is ~100
-The total number of tweets on Twitter is ~10000
-Average follower and following counts are ~7
-
-Provide these functions for Twitter:
-A user should be able to post and delete their tweet.
-A user should be able to follow and unfollow another user.
-View all the info about any user. (bio, image, followers, following, all tweets).
-A user should be able to view the feed.
- */
 public class Main {
 
     public static void main(String[] args) throws Exception{
